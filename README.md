@@ -31,7 +31,7 @@ to be added
 <a href="https://github.com/NetBeansDay/031615-Munich/blob/master/KarstenSitterbergTeachingWithNetBeans.pdf">https://github.com/NetBeansDay/031615-Munich/blob/master/KarstenSitterbergTeachingWithNetBeans.pdf</a>
 </li>
 <li><b>Running Java Everywhere with DukeScript and Bck2Brwsr</b> -- Anton Epple:<br/>
-to be added
+<a href="https://github.com/NetBeansDay/031615-Munich/blob/master/DukeScript.pdf">https://github.com/NetBeansDay/031615-Munich/blob/master/DukeScript.pdf</a>
 </li>
 <li><b>Hello Oracle Developer Cloud Service!</b> -- Geertjan Wielenga:<br/>
 <a href="https://github.com/NetBeansDay/031615-Munich/blob/master/GeertjanWielenga-OracleDeveloperCloudService.pdf">https://github.com/NetBeansDay/031615-Munich/blob/master/GeertjanWielenga-OracleDeveloperCloudService.pdf</a>
