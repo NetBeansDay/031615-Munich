@@ -10,7 +10,7 @@ no slides, just code
 to be added
 </li>
 <li><b>A Sneak Peak into JDK 9</b> -- Dalibor Topic:<br/>
-to be added
+<a href="https://github.com/NetBeansDay/031615-Munich/blob/master/JDK9ASneakPeak-Munich.pdf">https://github.com/NetBeansDay/031615-Munich/blob/master/JDK9ASneakPeak-Munich.pdf</a>
 </li>
 <li><b>NetBeans Platform and JavaFX</b> -- Gail and Paul Anderson:
 <br/><a href="https://www.youtube.com/watch?v=EbvgXkqBJ60">https://www.youtube.com/watch?v=EbvgXkqBJ60</a>
